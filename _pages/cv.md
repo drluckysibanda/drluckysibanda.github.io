@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Management, University of the Western Cape (2025 expected)
-* Master of Business Administration, Cape Peninsula University of Technology (2021)
-* Degree in Business Administration, Cape Peninsula University of Technology (2014)
-* Diploma in Entrepreneurship, Cape Peninsula University of Technology (2012)
+* Ph.D in Management, University of the Western Cape (__2025 expected__)
+* Master of Business Administration, Cape Peninsula University of Technology (__2021__)
+* Degree in Business Administration, Cape Peninsula University of Technology (__2014__)
+* Diploma in Entrepreneurship, Cape Peninsula University of Technology (__2012__)
 
 Work experience
 ======
@@ -30,7 +30,7 @@ Skills
   * Atlas.ti
 * Teaching
   * Entrepreneurship (taught entrepreneurship modules from first year to honours level)
-  * Business management (taught entrepreneurship modules from first-year to third-year level)
+  * Business management (taught management modules from first-year to third-year level)
 
 Publications
 ======
