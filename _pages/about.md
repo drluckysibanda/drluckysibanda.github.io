@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Doctoral student in Management (UWC, RSA)"
+title: "PhD in Management student (UWC, RSA)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a second-year doctoral student in Management at the University of the Western Cape in South Africa. My topic investigates _"**the socioeconomic imperatives of academic achievement and student retention at higher education institutions**"_. 
+I am a second-year doctoral student at the University of the Western Cape in South Africa. My topic investigates _"**the socioeconomic imperatives of academic achievement and student retention at higher education institutions**"_. 
 
 Qualifications
 ======
@@ -22,4 +22,4 @@ Published 14 peer-reviewed publications.
 
 Teaching experience
 ------
-8 years of teaching in higher education
+8 years of teaching experience in higher education.
