@@ -12,8 +12,8 @@ I am a second-year doctoral student in Management at the University of the Weste
 Previous qualifications
 ======
 Master of Business Administration (specialisation in Entrepreneurship)
-Degree in Business Management
-Diploma in Entrepreneurship
+n\Degree in Business Management
+n\Diploma in Entrepreneurship
 
 Research Experience
 ======
