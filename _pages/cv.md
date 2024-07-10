@@ -28,9 +28,10 @@ Skills
 * Research - qualitative and quantitative data analysis
   * SPSS (and AMOS)
   * Atlas.ti
-* Teaching
-  * Entrepreneurship (taught entrepreneurship modules from first year to honours level)
-  * Business management (taught management modules from first-year to third-year level)
+* Teaching <br>
+  Teaching and learning activities, assessment development, marking and moderation
+  * Entrepreneurship (taught entrepreneurship modules from first-year to honours level)
+  * Business management (taught business management modules from first-year to third-year level)
 
 Publications
 ======
