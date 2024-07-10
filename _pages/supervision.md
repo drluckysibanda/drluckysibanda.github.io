@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Management College of Southern Africa (MANCOSA) - honours students
+MANCOSA: Honours
 ==
 __Students who completed their projects__
 1. Sechni Govender (*Jan-Jun2024*). __Bachelor of Commerce in Human Resource Management__. _An evaluation of the impact of employee motivation on employee performance at BES Empowerment College Benoni._
