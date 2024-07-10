@@ -10,9 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
-Publications
-=======
+1. Makudza, F., Makwara, T., Masaire, R. F., Dangaiso, P. & **Sibanda, L. 2024**. From employment seeking to employment creation:  driving entrepreneurship through gender moderated entrepreneurial mindset among tertiary students. _Cogent Education, 11_(1), 2369964. https://doi.org/10.1080/2331186X.2024.2369964
 1. Makudza, F., Masaire, F., Makwara, T., **Sibanda, L.** & Machaka, T. H. T. **2024**. Modelling mobile advertising, consumer response and mobile shopping behavior. A post COVID-19 pandemic perspective. _Cogent Business & Management, 11_(1), 2368102. https://doi.org/10.1080/23311975.2024.2368102
 1. Iwu, C. G., Malawu, N., Ndlovu, E. N., Makwara, T. & **Sibanda, L. 2024**. Sustaining family businesses through business incubation. An Africa-focused review. _Journal of Risk and Financial Management, 17_(5), 178
 1. Iwu, C. G., Akoleowo, V. O., **Sibanda, L.**, & Makwara, T. **2023**. A socio-anthropological understanding of the reasons for female entrepreneurs’ attraction to social media in developing countries. _Journal of Comparative Research in Anthropology and Sociology, 14_(2), 21-40.
