@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to my home page"
+title: "Doctoral student in Management (UWC, RSA)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a second-year doctoral student in Management at the University of the Western Cape in South Africa.
+I am a second-year doctoral student in Management at the University of the Western Cape in South Africa. My topic investigates the socioeconomic imperatives of academic achievement and student retention at higher education institutions. 
 
 Previous qualifications
 ======
