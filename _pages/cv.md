@@ -19,14 +19,18 @@ Education
 Work experience
 ======
 * Management College of Southern Africa (MANCOSA) - honours research supervisor
-* University of the Western Cape - Post graduate student coach
+* University of the Western Cape - Postgraduate student coach
 * Boston City Campus - lecturer
 * Cape Peninsula University of Technology - lecturer
   
 Skills
 ======
-Research
-Teaching
+* Research - qualitative and quantitative data analysis
+  * SPSS (and AMOS)
+  * Atlas.ti
+* Teaching
+  * Entrepreneurship (taught entrepreneurship modules from first year to honours level)
+  * Business management (taught entrepreneurship modules from first-year to third-year level)
 
 Publications
 ======
