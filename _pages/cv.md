@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitare for Lucky"
+#title: "Curriculum Vitae for Lucky"
 permalink: /cv/
 author_profile: true
 redirect_from:
