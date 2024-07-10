@@ -11,9 +11,10 @@ I am a second-year doctoral student in Management at the University of the Weste
 
 Previous qualifications
 ======
-Master of Business Administration (specialisation in Entrepreneurship)<br>
-Degree in Business Management<br>
-Diploma in Entrepreneurship
+* Ph.D in Management, University of the Western Cape (2025 expected)
+* Master of Business Administration, Cape Peninsula University of Technology (2021)
+* Degree in Business Administration, Cape Peninsula University of Technology (2014)
+* Diploma in Entrepreneurship, Cape Peninsula University of Technology (2012)
 
 Research Experience
 ======
