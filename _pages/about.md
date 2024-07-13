@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year doctoral student at the University of the Western Cape in South Africa. My topic investigates _"**the socioeconomic imperatives of academic achievement and student retention at higher education institutions**"_. 
+I am a second-year doctoral student at the [University of the Western Cape](https://www.uwc.ac.za/) in South Africa. My topic investigates _"**the socioeconomic imperatives of academic achievement and student retention at higher education institutions**"_. 
 
 Qualifications
 ======
-* Ph.D in Management, University of the Western Cape (**2025 expected**)
-* Master of Business Administration, Cape Peninsula University of Technology (**2021**)
-* Degree in Business Administration (_Cum laude_), Cape Peninsula University of Technology (**2014**)
-* Diploma in Entrepreneurship (_Cum laude_), Cape Peninsula University of Technology (**2012**)
+* Ph.D in Management, [University of the Western Cape](https://www.uwc.ac.za/) (**2025 expected**)
+* Master of Business Administration, [Cape Peninsula University of Technology](https://www.cput.ac.za/) (**2021**)
+* Degree in Business Administration (_Cum laude_), [Cape Peninsula University of Technology](https://www.cput.ac.za/) (**2014**)
+* Diploma in Entrepreneurship (_Cum laude_), [Cape Peninsula University of Technology](https://www.cput.ac.za/) (**2012**)
 
 Research Experience
 ======
-Published 14 peer-reviewed publications.
+I have co-authored [14 peer-reviewed](https://drluckysibanda.github.io/publications/) publications.
 
 Teaching experience
 ------
