@@ -6,14 +6,15 @@ main:
 #  - title: "Talks"
  #   url: /talks/    
 
+  - title: "Supervision"
+    url: /supervision/
+
+    
   - title: "Teaching"
     url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
-
-  - title: "Supervision"
-    url: /supervision/
         
 #  - title: "Blog Posts"
  #   url: /year-archive/
