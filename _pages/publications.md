@@ -1,17 +1,26 @@
 ---
 layout: archive
-title: "Publications"
+#title: "Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
+Google Scholar Account
+======
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on my Google Scholar profile:<a href="{{site.author.googlescholar}}"> Lucky Sibanda</a>.</div>
 {% endif %}
 
 {% include base_path %}
+
+Theses
+=====
+1. Master of Business Administration (Entrepreneurship) - "[_Pre-enrolment factors influencing academic performance of entrepreneurship students at a tertiary institution in the Western Cape, South Africa_](https://etd.cput.ac.za/bitstream/20.500.11838/3460/1/Sibanda_Lucky_210227206.pdf)"
+2. PhD in Management "_The socioeconomic imperatives of academic achievement and student retention at higher education institutions_" __(ongoing)__
+
+Publications
+======
 1. Makudza, F., Makwara, T., Masaire, R. F., Dangaiso, P. & **Sibanda, L. 2024**. From employment seeking to employment creation:  driving entrepreneurship through gender moderated entrepreneurial mindset among tertiary students. _Cogent Education, 11_(1), 2369964. DOI: [10.1080/2331186X.2024.2369964](https://doi.org/10.1080/2331186X.2024.2369964)
 1. Makudza, F., Masaire, F., Makwara, T., **Sibanda, L.** & Machaka, T. H. T. **2024**. Modelling mobile advertising, consumer response and mobile shopping behavior. A post COVID-19 pandemic perspective. _Cogent Business & Management, 11_(1), 2368102. DOI: [10.1080/23311975.2024.2368102](https://doi.org/10.1080/23311975.2024.2368102)
 1. Iwu, C. G., Malawu, N., Ndlovu, E. N., Makwara, T. & **Sibanda, L. 2024**. Sustaining family businesses through business incubation. An Africa-focused review. _Journal of Risk and Financial Management, 17_(5), 178. DOI: [10.3390/jrfm17050178](https://doi.org/10.3390/jrfm17050178)
