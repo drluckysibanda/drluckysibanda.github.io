@@ -6,11 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Google Scholar Account
-======
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on my Google Scholar profile:<a href="{{site.author.googlescholar}}"> Lucky Sibanda</a>.</div>
-{% endif %}
 
 {% include base_path %}
 
@@ -48,3 +43,8 @@ Conference Presentations
 1. **Sibanda, L.** & Iwu, C. G. **2020**. Teaching strategies towards the improved academic performance of entrepreneurship students’, paper presented at the HELTASA2020 Conference, Central University of Technology, Free State, South Africa, 30 November – 3 December 2020. [Virtual conference].
 1. **Sibanda, L.** & Iwu, C. G. **2020**. ‘The academic journey of entrepreneurship students in Higher Education Institutions – the systems theory approach’, presented at the HELTASA2020 Conference, Central University of Technology, Free State, South Africa, 30 November – 3 December 2020. [Virtual conference].
 
+Google Scholar Account
+======
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on my Google Scholar profile:<a href="{{site.author.googlescholar}}"> Lucky Sibanda</a>.</div>
+{% endif %}
