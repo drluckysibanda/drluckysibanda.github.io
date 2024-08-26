@@ -32,8 +32,8 @@ Publications
 
 Book Chapters
 ======
-1. **Sibanda, L.**, Hlatjwako, S.W., Makwara, T., Iwu, C.G. **2024**. Academic Citizenship in Private Higher Education Institutions: A South African Reflection. In Iwu, C.G. (ed) _Academic Citizenship in African Higher Education: Towards a Socioeconomic Development Agenda_. Palgrave Macmillan, Cham, pp. 67-85. DOI: [10.1007/978-3-031-63957-9_4](https://doi.org/10.1007/978-3-031-63957-9_4).
-1. Makwara, T., **Sibanda, L.** & Iwu, C. G. **2022**. To what extent is entrepreneurship a sustainable career choice for the youth? A post Covid-19 descriptive analysis. In Eniola, A. A., Iwu, C. G. and Opute, A. P. (eds.) _The Future of Entrepreneurship in Africa - Challenges and Opportunities Post-pandemic_, New York: Routledge, pp. 59-79. DOI: [10.4324/9781003216469-4](https://www.researchgate.net/publication/365835078_To_What_Extent_Is_Entrepreneurship_a_Sustainable_Career_Choice_for_the_Youth_A_Post-COVID-19_Descriptive_Analysis)
+1. **Sibanda, L.**, Hlatjwako, S.W., Makwara, T., Iwu, C.G. **2024**. Academic Citizenship in Private Higher Education Institutions: A South African Reflection. In  C.G. Iwu (ed) _Academic Citizenship in African Higher Education: Towards a Socioeconomic Development Agenda_. Palgrave Macmillan, Cham, pp. 67-85. DOI: [10.1007/978-3-031-63957-9_4](https://doi.org/10.1007/978-3-031-63957-9_4).
+1. Makwara, T., **Sibanda, L.** & Iwu, C. G. **2022**. To what extent is entrepreneurship a sustainable career choice for the youth? A post Covid-19 descriptive analysis. In A. A. Eniola, C.G. Iwu and A. P. Opute (eds.) _The Future of Entrepreneurship in Africa - Challenges and Opportunities Post-pandemic_, New York: Routledge, pp. 59-79. DOI: [10.4324/9781003216469-4](https://www.researchgate.net/publication/365835078_To_What_Extent_Is_Entrepreneurship_a_Sustainable_Career_Choice_for_the_Youth_A_Post-COVID-19_Descriptive_Analysis)
 
 Conference Presentations
 =======
