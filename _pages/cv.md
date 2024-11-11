@@ -26,8 +26,11 @@ Work experience
 Skills
 ======
 * Research - qualitative and quantitative data analysis
-  * SPSS (and AMOS)
+  * SPSS
+  * SPSS-AMOS for SEM
+  * Smart PLS for SEM
   * Atlas.ti
+    
 * Teaching <br>
   Teaching and learning activities, assessment development, marking and moderation
   * Entrepreneurship (taught entrepreneurship modules from first-year to honours level)
@@ -35,4 +38,4 @@ Skills
 
 Publications
 ======
-Published 14 peer-reviewed papers.
+Published 15 peer-reviewed papers.
