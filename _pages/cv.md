@@ -18,6 +18,7 @@ Education
 
 Work experience
 ======
+* Oxford Business College - Research Associate
 * Management College of Southern Africa (MANCOSA) - honours research supervisor
 * University of the Western Cape - Postgraduate student coach
 * Boston City Campus - lecturer
