@@ -18,5 +18,5 @@ __Completed projects__
 1. Nadia Harriet Cathleen Diergaardt (*Jan-Jun 2023*). __Bachelor of Business Administration Honours__. _An assessment of the importance of effective leadership for business success at Bank Windhoek._
 
 __Current Students__
-1. Phaello Faro (__Jul-Dec2024__) __Bachelor of Commerce in Human Resource Management__ An investigation into the impact of leadership styles on employee satisfaction at Proconics Company in Gauteng Province.
-1. Matseleng Irine Masunya (__Jul-Dec2024__) __Bachelor of Commerce in Human Resource Management__ Assessing the impact of the hybrid work model on employee wellbeing at Servest, Johannesburg.
+1. Phaello Faro (__Jul-Dec2024__) __Bachelor of Commerce in Human Resource Management__ _An investigation into the impact of leadership styles on employee satisfaction at Proconics Company in Gauteng Province._
+1. Matseleng Irine Masunya (__Jul-Dec2024__) __Bachelor of Commerce in Human Resource Management__ _Assessing the impact of the hybrid work model on employee wellbeing at Servest, Johannesburg._
