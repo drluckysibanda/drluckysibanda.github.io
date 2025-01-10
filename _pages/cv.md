@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Management, University of the Western Cape (__2025 expected__)
+* [_Current_] Ph.D in Management, University of the Western Cape (__2025 expected__)
 * Master of Business Administration, Cape Peninsula University of Technology (__2021__)
 * Degree in Business Administration, Cape Peninsula University of Technology (__2014__)
 * Diploma in Entrepreneurship, Cape Peninsula University of Technology (__2012__)
@@ -24,13 +24,17 @@ Work experience
 * Boston City Campus - lecturer
 * Cape Peninsula University of Technology - lecturer
   
-Skills
+Research Skills
 ======
-* Research - qualitative and quantitative data analysis
+* Data Analysis: Qualitative and Quantitative
   * SPSS
   * SPSS-AMOS for SEM
   * Smart PLS for SEM
   * Atlas.ti
+ 
+* Literature review
+  * Systematic
+  * Scoping
     
 * Teaching <br>
   Teaching and learning activities, assessment development, marking and moderation
@@ -39,4 +43,4 @@ Skills
 
 Publications
 ======
-Published 15 peer-reviewed papers.
+Published [17 peer-reviewed](https://drluckysibanda.github.io/publications/) papers.
