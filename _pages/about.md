@@ -19,7 +19,7 @@ Qualifications
 Research Experience
 ======
 * I am a Research Associate at [Oxford Business College (UK)](https://oxfordbusinesscollege.ac.uk/oxbrain/)
-* I have co-authored [15 peer-reviewed](https://drluckysibanda.github.io/publications/) publications.
+* I have co-authored [17 peer-reviewed](https://drluckysibanda.github.io/publications/) publications.
 
 Teaching experience
 ------
