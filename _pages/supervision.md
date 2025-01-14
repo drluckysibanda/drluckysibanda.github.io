@@ -20,4 +20,4 @@ __Completed projects__
 1. Nadia Harriet Cathleen Diergaardt (**Jan-Jun 2023**). __Bachelor of Business Administration Honours__. _An assessment of the importance of effective leadership for business success at Bank Windhoek._
 
 __Current Students__
-Two students
+1. Two students
