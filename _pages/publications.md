@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: url('PNG Transparent logo-01.png'); background-size: cover; background-position: center; opacity: 0.5; z-index: -1;"></div>
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-image: url('PNG Transparent logo-01.png'); background-size: cover; background-position: center; opacity: 0.7; z-index: -1;"></div>
 
 Theses
 =====
