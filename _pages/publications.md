@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
+            background-image: url("PNG Transparent logo-01.png"); 
+            background-size: cover; background-position: center; 
+            opacity: 0.5; z-index: -1;">
+</div>
+
 Theses
 =====
 1. Master of Business Administration (Entrepreneurship) - "[_Pre-enrolment factors influencing academic performance of entrepreneurship students at a tertiary institution in the Western Cape, South Africa_](https://etd.cput.ac.za/bitstream/20.500.11838/3460/1/Sibanda_Lucky_210227206.pdf)"
