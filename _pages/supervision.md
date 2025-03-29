@@ -18,5 +18,5 @@ __A. Completed Honours Projects -__ **Management College of Southern Africa (MAN
   1. Anastacia Carvalho, (*Jul-Dec2023*). __Bachelor of Business Administration Honours__. _An assessment of the impact of the 4th Industrial Revolution on Training and development. A case of Eskom in Middleburg Mpumalanga._
   1. Nadia Harriet Cathleen Diergaardt, (*Jan-Jun 2023*). __Bachelor of Business Administration Honours__. _An assessment of the importance of effective leadership for business success at Bank Windhoek._
 
-__B. Current Honours Projects-__ **MANCOSA:**
+__B. Current Honours Projects -__ **MANCOSA:**
   1. Three students
