@@ -24,7 +24,7 @@ In press
 
 Publications
 ======
-1. Iwu, C. G., Kamara, R. D., Ojilere, I. C., Makwara, T., **Sibanda, L.**, Opute, A. P., & Maziriri, E. T. **2025**. Entrepreneurship Intentions of Higher Education Institution Students in Nigeria: Antecedents and Interactions. _Cogent Education, 11_(1), 2519307. DOI: [10.1080/2331186X.2025.2519307](https://doi.org/10.1080/2331186X.2025.2519307)
+1. Iwu, C. G., Kamara, R. D., Ojilere, I. C., Makwara, T., **Sibanda, L.**, Opute, A. P., & Maziriri, E. T. **2025**. Entrepreneurship Intentions of Higher Education Institution Students in Nigeria: Antecedents and Interactions. _Cogent Education, 12_(1), 2519307. DOI: [10.1080/2331186X.2025.2519307](https://doi.org/10.1080/2331186X.2025.2519307)
 2. Iwu, C. G., Maziriri, E. T., **Sibanda, L.**, &  Makwara, T. **2025**. Unpacking the Entrepreneurship Education Conundrum: Lecturer Competency, Curriculum, and Pedagogy. _Administrative Sciences, 15_(1), 2, [https://doi.org/10.3390/admsci15010002](https://doi.org/10.3390/admsci15010002).
 1. Makwara, T., Iwu, C. G., **Sibanda, L.**, & Maziriri, E. T. **2024**. Shaping Students’ Entrepreneurial Intentions into Actions: South African Lecturers’ Views on Teaching Strategies and the Ideal Educator. _Administrative Sciences, 14_(12), 341. [https://www.mdpi.com/2076-3387/14/12/341](https://www.mdpi.com/2076-3387/14/12/341)
 1. Makudza, F., Makwara, T., Masaire, R. F., Dangaiso, P. & **Sibanda, L. 2024**. From employment seeking to employment creation:  driving entrepreneurship through gender moderated entrepreneurial mindset among tertiary students. _Cogent Education, 11_(1), 2369964. DOI: [10.1080/2331186X.2024.2369964](https://doi.org/10.1080/2331186X.2024.2369964)
