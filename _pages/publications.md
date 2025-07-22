@@ -12,16 +12,16 @@ redirect_from:
 Theses
 =====
 1. **2021**: Master of Business Administration (Entrepreneurship) - "[_Pre-enrolment factors influencing academic performance of entrepreneurship students at a tertiary institution in the Western Cape, South Africa_](https://etd.cput.ac.za/bitstream/20.500.11838/3460/1/Sibanda_Lucky_210227206.pdf)"
-2. **2025**: PhD in Management "_The socioeconomic imperatives of academic achievement and student retention at higher education institutions_" __(ongoing)__
+2. **2025**: PhD in Management "_The socioeconomic imperatives of academic achievement and student retention at higher education institutions_" __(submitted for examination)__
 
 In press
 ======
 1. Iwu, C. G., **Sibanda, L.**, & Makwara, T. **2025**. African entrepreneurial ecosystem resource constraints. A Covid-19 perspective. _Journal of Entrepreneurship and Innovation in Emerging Economies, XXXX_(XXXX), XXXX-XXXX.
-2. **Sibanda, L.**, Iwu, C. G., & Makwara, T. **2025**. Implications of Student Entrepreneurial Traits on Entrepreneurship Education: A Descriptive-Inferential Analysis. _International Journal of Learning, Teaching and Educational Research, XXXX_(XXXX), XXXX-XXXX.
-3. **Sibanda, L.**, Iwu, C. G., & Makwara, T. **2025**. The role of pre-entry and demographic variables on the perceived uptake of selected student support services at a university of technology **[Book Chapter]** Ali Mazrui Centre for Higher Education Studies _(AMCHES)_
+2. **Sibanda, L.**, Iwu, C. G., & Makwara, T. **2025**. The role of pre-entry and demographic variables on the perceived uptake of selected student support services at a university of technology **[Book Chapter]** Ali Mazrui Centre for Higher Education Studies _(AMCHES)_
 
 Publications
 ======
+1. **Sibanda, L.**, Iwu, C. G., & Makwara, T. **2025**. Implications of Student Entrepreneurial Traits on Entrepreneurship Education: A Descriptive-Inferential Analysis. _International Journal of Learning, Teaching and Educational Research, 24_(7), 504-524. DOI: [10.26803/ijlter.24.7.25](https://www.ijlter.org/index.php/ijlter/article/view/12689).
 1. **Sibanda, L.**, Musikavanhu, T. B., & Makwara, T. **2025**. Higher Education Institutional Student Wellness Support Practices during and post-COVID-19 in Developing Countries: A Scoping Review. _Social Sciences and Education Research Review, 12_(1), 341-353. DOI: [10.5281/zenodo.15804572](https://doi.org/10.5281/zenodo.15804572)
 1. Hlatjwako, S. W., Makwara, T., **Sibanda, L.**, & Ndlovu, E. N. **2025**. Professional Development of Lecturers at South African TVET Colleges through Coaching and Mentoring. _Social Sciences and Education Research Review, 12_(1), 427-436. DOI: [10.5281/zenodo.15804590](https://doi.org/10.5281/zenodo.15804590)
 1. Iwu, C. G., Kamara, R. D., Ojilere, I. C., Makwara, T., **Sibanda, L.**, Opute, A. P., & Maziriri, E. T. **2025**. Entrepreneurship Intentions of Higher Education Institution Students in Nigeria: Antecedents and Interactions. _Cogent Education, 12_(1), 2519307. DOI: [10.1080/2331186X.2025.2519307](https://doi.org/10.1080/2331186X.2025.2519307)
