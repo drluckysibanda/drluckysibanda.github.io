@@ -12,7 +12,7 @@ redirect_from:
 Theses
 =====
 1. **2021**: Master of Business Administration (Entrepreneurship) - "[_Pre-enrolment factors influencing academic performance of entrepreneurship students at a tertiary institution in the Western Cape, South Africa_](https://etd.cput.ac.za/bitstream/20.500.11838/3460/1/Sibanda_Lucky_210227206.pdf)"
-2. **2025**: PhD in Management "_The economic imperatives of academic achievement and student retention in South African higher education institutions_" __(submitted for examination)__
+2. **2025**: PhD in Management "_Economic imperatives of academic achievement and student retention in South African higher education institutions_" __(submitted for examination)__
 
 In press
 ======
