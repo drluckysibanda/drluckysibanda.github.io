@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year doctoral student at the [University of the Western Cape](https://www.uwc.ac.za/) in South Africa. My topic investigates _"**the socioeconomic imperatives of academic achievement and student retention at higher education institutions**"_. 
+I am a third-year doctoral student at the [University of the Western Cape](https://www.uwc.ac.za/) in South Africa. My topic investigates _"**The economic imperatives of academic achievement and student retention at higher education institutions**"_. 
 
 Qualifications
 ======
