@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lucky's Home page"
+title                    : "Home page (Soon to be Dr Lucky)"
 title_separator          : "-"
 name                     : &name "Lucky Sibanda"
 description              : &description "I am a second-year doctoral student in Management at the University of the Western Cape."
@@ -14,7 +14,7 @@ repository               : "drluckysibanda.github.io"
 author:
   # Biographic information
   avatar           : "Lucky Pic.png"
-  name             : "Lucky Sibanda"
+  name             : "Lucky Sibanda (soon to be Dr)"
   pronouns         : # example: "He/Him"  
   bio              : "Student Success & Entrep-Education"
   location         : "Cape Town, South Africa"
