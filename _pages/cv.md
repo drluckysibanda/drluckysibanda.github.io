@@ -42,4 +42,4 @@ Research Skills
 
 Publications
 ======
-Published [17 peer-reviewed](https://drluckysibanda.github.io/publications/) papers.
+Published [22 peer-reviewed](https://drluckysibanda.github.io/publications/) papers.
