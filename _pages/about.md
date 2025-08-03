@@ -18,7 +18,7 @@ Qualifications
 
 Research Experience
 ======
-* I have co-authored [21 peer-reviewed](https://drluckysibanda.github.io/publications/) publications.
+* I have co-authored [22 peer-reviewed](https://drluckysibanda.github.io/publications/) publications.
 
 Teaching experience
 ------
