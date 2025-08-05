@@ -11,8 +11,8 @@ redirect_from:
 
 __A. Completed Honours Projects -__ **Management College of Southern Africa (MANCOSA):**
    
-  1. Karabo Sylvester Phihlela, (_Jan-Jun2025_). __Bachelor of Business Administration Honours__. _Investigating factors hindering the success of a Student Entrepre-neurship Association in national competitions at a public university in Limpopo, South Africa._
-  1. Rabelani Norah Muedi, (_Jan-Jun2025_). __Bachelor of Business Administration Honours__. _An investigation of the role of entrepreneurship in eco-nomic development: A case of District Municipality X, Limpopo._
+  1. Karabo Sylvester Phihlela, (_Jan-Jun2025_). __Bachelor of Business Administration Honours__. _Investigating factors hindering the success of a Student Entrepreneurship Association in national competitions at a public university in Limpopo, South Africa._
+  1. Rabelani Norah Muedi, (_Jan-Jun2025_). __Bachelor of Business Administration Honours__. _An investigation of the role of entrepreneurship in economic development: A case of District Municipality X, Limpopo._
   1. Mayele Matobele, (_Jan-Jun2025_). __Bachelor of Commerce in Human Resource Management Honours__. _Investigating the influence of remote work on employee productivity at a non-profit organisation, Cape Town._
   1. Phaello Faro, (_Jul-Dec2024_). __Bachelor of Commerce in Human Resource Management Honours__ _An investigation into the impact of leadership styles on employee satisfaction at Proconics Company in Gauteng Province._
   1. Matseleng Irine Masunya, (_Jul-Dec2024_). __Bachelor of Commerce in Human Resource Management Honours__ _Assessing the impact of the hybrid work model on employee wellbeing at Servest, Johannesburg._
