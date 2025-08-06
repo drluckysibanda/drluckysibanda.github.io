@@ -28,7 +28,7 @@ Research Skills
 * Data Analysis: Qualitative and Quantitative
   * SPSS
   * SPSS-AMOS for SEM
-  * Smart PLS for SEM
+  * SmartPLS for SEM
   * Atlas.ti
  
 * Literature review
