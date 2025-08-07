@@ -20,7 +20,7 @@ In press
 
 Publications
 ======
-1. Iwu, C. G., **Sibanda, L.**, & Makwara, T. **2025**. African entrepreneurial ecosystem resource constraints. A Covid-19 perspective. _Journal of Entrepreneurship and Innovation in Emerging Economies, 1-18. DOI: [10.1177/23939575251361581](10.1177/23939575251361581)
+1. Iwu, C. G., **Sibanda, L.**, & Makwara, T. **2025**. African entrepreneurial ecosystem resource constraints. A Covid-19 perspective. _Journal of Entrepreneurship and Innovation in Emerging Economies_, 1-18. DOI: [10.1177/23939575251361581](10.1177/23939575251361581)
 1. **Sibanda, L.**, Iwu, C. G., & Makwara, T. **2025**. Implications of Student Entrepreneurial Traits on Entrepreneurship Education: A Descriptive-Inferential Analysis. _International Journal of Learning, Teaching and Educational Research, 24_(7), 504-524. DOI: [10.26803/ijlter.24.7.25](https://www.ijlter.org/index.php/ijlter/article/view/12689).
 1. **Sibanda, L.**, Musikavanhu, T. B., & Makwara, T. **2025**. Higher Education Institutional Student Wellness Support Practices during and post-COVID-19 in Developing Countries: A Scoping Review. _Social Sciences and Education Research Review, 12_(1), 341-353. DOI: [10.5281/zenodo.15804572](https://doi.org/10.5281/zenodo.15804572)
 1. Hlatjwako, S. W., Makwara, T., **Sibanda, L.**, & Ndlovu, E. N. **2025**. Professional Development of Lecturers at South African TVET Colleges through Coaching and Mentoring. _Social Sciences and Education Research Review, 12_(1), 427-436. DOI: [10.5281/zenodo.15804590](https://doi.org/10.5281/zenodo.15804590)
