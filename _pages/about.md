@@ -11,7 +11,7 @@ I am a third-year doctoral student at the [University of the Western Cape](https
 
 Qualifications
 ======
-* **2025**: Ph.D in Management, [University of the Western Cape](https://www.uwc.ac.za/) (**submitted for examination**)
+* **2026**: Ph.D in Management, [University of the Western Cape](https://www.uwc.ac.za/) (**expected graduation - April 2026**)
 * **2021**: Master of Business Administration, [Cape Peninsula University of Technology](https://www.cput.ac.za/)
 * **2014**: Degree in Business Administration (_Cum laude_), [Cape Peninsula University of Technology](https://www.cput.ac.za/)
 * **2012**: Diploma in Entrepreneurship (_Cum laude_), [Cape Peninsula University of Technology](https://www.cput.ac.za/)
