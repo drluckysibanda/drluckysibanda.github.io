@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-__A. Completed Honours Projects -__ **Management College of Southern Africa (MANCOSA):**
+__A. Completed Honours Projects at Management College of Southern Africa (MANCOSA):__
    
   1. Karabo Sylvester Phihlela, (_Jan-Jun2025_). __Bachelor of Business Administration Honours__. _Investigating factors hindering the success of a Student Entrepreneurship Association in national competitions at a public university in Limpopo, South Africa._
   1. Rabelani Norah Muedi, (_Jan-Jun2025_). __Bachelor of Business Administration Honours__. _An investigation of the role of entrepreneurship in economic development: A case of District Municipality X, Limpopo._
