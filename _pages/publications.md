@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-In press
+Papers in press
 ======
 1. **Sibanda, L.**, Iwu, C. G., & Makwara, T. **2026**. The role of pre-entry and demographic variables on the perceived uptake of selected student support services at a university of technology **[Book Chapter]** In _Thresholds of Becoming: Rethinking Educational Transitions in African Higher Education (AMCHES)_
 
