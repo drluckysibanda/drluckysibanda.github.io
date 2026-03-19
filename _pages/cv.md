@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* [_Current_] Ph.D in Management, University of the Western Cape (__2025 expected__)
-* Master of Business Administration, Cape Peninsula University of Technology (__2021__)
+* Ph.D in Management, University of the Western Cape (__2026__)
+* Master of Business Administration (Entrepreneurship), Cape Peninsula University of Technology (__2021__)
 * Degree in Business Administration, Cape Peninsula University of Technology (__2014__)
 * Diploma in Entrepreneurship, Cape Peninsula University of Technology (__2012__)
 
@@ -25,17 +25,17 @@ Work experience
   
 Research Skills
 ======
-* Data Analysis: Qualitative and Quantitative
+* Data Analysis: Qualitative and Quantitative:
   * SPSS
   * SPSS-AMOS for SEM
   * SmartPLS for SEM
   * Atlas.ti
  
-* Literature review
+* Literature review:
   * Systematic
   * Scoping
     
-* Teaching <br>
+* Teaching: <br>
   Teaching and learning activities, assessment development, marking and moderation
   * Entrepreneurship (taught entrepreneurship modules from first-year to honours level)
   * Business management (taught business management modules from first-year to third-year level)
