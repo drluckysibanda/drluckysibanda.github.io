@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Theses
-=====
-1. **2021**: Master of Business Administration (Entrepreneurship) - "[_Pre-enrolment factors influencing academic performance of entrepreneurship students at a tertiary institution in the Western Cape, South Africa_](https://etd.cput.ac.za/bitstream/20.500.11838/3460/1/Sibanda_Lucky_210227206.pdf)"
-2. **2025**: PhD in Management "_Economic imperatives of academic achievement and student retention in South African higher education institutions_" __(graduation - April 2026)__
-
 In press
 ======
 1. **Sibanda, L.**, Iwu, C. G., & Makwara, T. **2026**. The role of pre-entry and demographic variables on the perceived uptake of selected student support services at a university of technology **[Book Chapter]** In _Thresholds of Becoming: Rethinking Educational Transitions in African Higher Education (AMCHES)_
