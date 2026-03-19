@@ -1,18 +1,16 @@
 ---
 permalink: /
-title: "PhD in Management student (UWC, RSA)"
+title: "Qualifications"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a third-year doctoral student at the [University of the Western Cape](https://www.uwc.ac.za/) in South Africa. My topic investigates _"**Economic imperatives of academic achievement and student retention in South African higher education institutions**"_. 
-
-Qualifications
-======
 * **2026**: Ph.D in Management, [University of the Western Cape](https://www.uwc.ac.za/) (**graduation - April 2026**)
+  _"Economic imperatives of academic achievement and student retention in South African higher education institutions"_
 * **2021**: Master of Business Administration, [Cape Peninsula University of Technology](https://www.cput.ac.za/)
+  _“Pre-enrolment factors influencing academic performance of entrepreneurship students at a tertiary institution in the Western Cape, South Africa”_
 * **2014**: Degree in Business Administration (_Cum laude_), [Cape Peninsula University of Technology](https://www.cput.ac.za/)
 * **2012**: Diploma in Entrepreneurship (_Cum laude_), [Cape Peninsula University of Technology](https://www.cput.ac.za/)
 
