@@ -1,9 +1,9 @@
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lucky Sibanda (Ph.D)"
+title                    : "Lucky Sibanda (PhD)"
 title_separator          : "-"
-name                     : &name "Lucky Sibanda (Ph.D)"
-description              : &description "I hold a Ph.D in Management from the University of the Western Cape."
+name                     : &name "Lucky Sibanda (PhD)"
+description              : &description "I hold a PhD in Management from the University of the Western Cape."
 #url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drluckysibanda.github.io"
@@ -14,12 +14,12 @@ repository               : "drluckysibanda.github.io"
 author:
   # Biographic information
   avatar           : "Lucky Pic.png"
-  name             : "Lucky Sibanda (Ph.D)"
+  name             : "Lucky Sibanda (PhD)"
   pronouns         : # example: "He/Him"  
   bio              : "Student Success & Entrep-Education"
   location         : "Cape Town, South Africa"
-  #employer         : "Red Brick University"
- # uri              : # URL
+  employer         : "GraceLitRev"
+  uri              : "https://www.gracelitrev.com/"
   email            : "drluckysibanda@gmail.com" 
 
   # Academic websites
