@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Management, University of the Western Cape (__2026__)
+* PhD in Management, University of the Western Cape (__2026__)
 * Master of Business Administration (Entrepreneurship), Cape Peninsula University of Technology (__2021__)
 * Degree in Business Administration, Cape Peninsula University of Technology (__2014__)
 * Diploma in Entrepreneurship, Cape Peninsula University of Technology (__2012__)
