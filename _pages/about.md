@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Qualifications"
+title: "Qualifications:"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-* **2026**: Ph.D in Management, [University of the Western Cape](https://www.uwc.ac.za/)\
+* **2026**: PhD in Management, [University of the Western Cape](https://www.uwc.ac.za/)\
   _"Economic imperatives of academic achievement and student retention in South African higher education institutions"_ <br/><br/>
 * **2021**: Master of Business Administration (Entrepreneurship), [Cape Peninsula University of Technology](https://www.cput.ac.za/)\
   _“Pre-enrolment factors influencing academic performance of entrepreneurship students at a tertiary institution in the Western Cape, South Africa”_ <br/><br/>
