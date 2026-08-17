@@ -22,13 +22,3 @@ __A. Completed Honours Projects at Management College of Southern Africa (MANCOS
   1. Anastacia Carvalho, (*Jul-Dec2023*). __Bachelor of Business Administration Honours__. _An assessment of the impact of the 4th Industrial Revolution on Training and development. A case of Eskom in Middleburg Mpumalanga._
   1. Nadia Harriet Cathleen Diergaardt, (*Jan-Jun 2023*). __Bachelor of Business Administration Honours__. _An assessment of the importance of effective leadership for business success at Bank Windhoek._
 
-__B. Current Honours Projects at Management College of Southern Africa (MANCOSA):__
-  1. Nkhensani Marcia Ntimbani (_Jul-Dec2026_)
-  1. Phindulo Gladness Mamuthubi (_Jul-Dec2026_)
-  1. Danielle Du Toit (_Jul-Dec2026_)
-  1. Bongiwe Lynette Ayanda Dladla (_Jul-Dec2026_)
-  1. Keandra Naicker (_Jul-Dec2026_)
-  1. Nashieta Meth (_Jul-Dec2026_)
-  1. Sarah Lindeni Mataitsane (_Jul-Dec2026_)
-  1. Ndyebo Mququ (_Jul-Dec2026_)
-  1. Lungile Nokulunga Masango (_Jul-Dec2026_)
